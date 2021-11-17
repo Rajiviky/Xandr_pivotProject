@@ -1,0 +1,11 @@
+Started by user [8mha:////4IlQtkyLDW50l/SYcCnf8grP0lEfANf0kqDwV7NeXC2wAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgYe/dLi1CL9jGxTU5NEAP7PeEbBAAAA[0mharshitha.k
+Running as SYSTEM
+Building in workspace /Users/hk554a/.jenkins/jobs/Pivot build from terminal/workspace
+[workspace] $ /bin/sh -xe /var/folders/kd/v0mbbfn96ld0l7vjy3h65ktm0000gn/T/jenkins74072709447587379.sh
++ cd /Users/hk554a/gotraining/gosetup/src/github.com/harshraopp/gotraining/1.helloworld/pivot
++ go run main.go
+Processing profile func
+<nil>
+row &{<nil> 0xc000202180}
+Attuid: rx802b
+Build step 'Execute shell' marked build as failure
